@@ -10,7 +10,6 @@ import {
   Pane,
   Layer,
   Button,
-  MultiColumnList,
 } from '@folio/stripes/components';
 
 import {

@@ -1,11 +1,9 @@
-import React, {Fragment} from 'react';
-import PropTypes from 'prop-types';
+import React from 'react';
 import { FormattedMessage } from 'react-intl';
 import css from './LicenseCustomProperties.css';
 import {
   Accordion,
   Col,
-  KeyValue,
   Row,
 } from '@folio/stripes/components';
 
